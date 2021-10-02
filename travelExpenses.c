@@ -1,7 +1,7 @@
 /*  
     Travel Expenses - Group 4 
     CS2500.02
-    Collaborators: 
+    Collaborators: Phillip Che
 */
 
 #include <stdio.h>
